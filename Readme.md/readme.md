@@ -1,0 +1,1 @@
+Projeto Lanterna com React Native utilizando shake e torch.
